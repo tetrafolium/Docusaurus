@@ -1,2 +1,3 @@
 docstand:
-  docusaurus: default
+  docusaurus:
+    config-file: website/siteConfig.js
